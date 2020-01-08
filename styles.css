@@ -1,0 +1,91 @@
+body {
+  background-color: #c3f584;
+  margin: 0;
+}
+
+.first {
+  margin: 0;
+}
+
+.sub {
+  color: #66BFBF;
+  font-size: 500%;
+  font-family: 'Dancing Script', cursive;
+  padding-left: 40%;
+
+}
+
+.pic2
+{
+  padding-left: 20%;
+  float: left;
+}
+
+.sub1, .sub2{
+  color: #1b262c;
+  font-size: 100%;
+  font-family: 'Patrick Hand', cursive;
+  padding-left: 45%;
+  font-weight: bold;
+  text-align: left;
+  line-height: 3;
+}
+
+.profile {
+padding-left: 40%;
+  height: 5%;
+  width: 15%;
+}
+.chic
+{
+  padding-right: 20%;
+  float: right;
+}
+.sub3
+{
+
+   color: #1b262c;
+  font-size: 100%;
+  font-family: 'Patrick Hand', cursive;
+    line-height: 3;
+  padding-left:20%;
+}
+.BUTTON_VBF {
+   background: #3DCCF6;
+   background-image: -webkit-linear-gradient(top, #3DCCF6, #1ED092);
+   background-image: -moz-linear-gradient(top, #3DCCF6, #1ED092);
+   background-image: -ms-linear-gradient(top, #3DCCF6, #1ED092);
+   background-image: -o-linear-gradient(top, #3DCCF6, #1ED092);
+   background-image: linear-gradient(to bottom, #3DCCF6, #1ED092);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 28px;
+   font-weight: 300;
+   padding: 19px;
+   box-shadow: 1px 1px 24px 18px #000000;
+   -webkit-box-shadow: 1px 1px 24px 18px #000000;
+   -moz-box-shadow: 1px 1px 24px 18px #000000;
+   text-shadow: 1px -2px 16px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_VBF:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
